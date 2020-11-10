@@ -1,6 +1,3 @@
-Call for papers coming soon!
-
-
 ## CHIL 2020 CFP (abridged)
 
 The ACM Conference on Health, Inference, and Learning (CHIL) solicits work across a variety of disciplines, including machine learning, statistics, epidemiology, health policy, operations, and economics. CHIL 2020 invites submissions touching on topics focused on relevant problems affecting health. Specifically, authors are invited to submit 8-10 page papers (with unlimited pages for references) to each of the tracks described below.
