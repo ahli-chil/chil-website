@@ -1,25 +1,51 @@
-<center> **Track 1: Machine Learning: Models, Algorithms, Inference, and Estimation** </center>
-
 ### Track Chairs
 - Dr. Michael Hughes
 - Dr. Shalmali Joshi
 - Dr. Rajesh Ranganath
 - Dr. Rahul G. Krishnan
 
-<br />
-
 ### Description
-Advances in machine learning are critical for a better understanding of health. This track seeks contributions in modeling, inference, and estimation in health-focused or health-inspired settings. We welcome submissions that develop novel methods and algorithms, introduce relevant machine learning tasks and baselines, identify challenges with prevalent approaches, or suggest new evaluation metrics for assessing algorithmic advances. In addition, we welcome new techniques for combining non-clinical and clinical data for public and population health applications, algorithms for public health goals, modeling multi-sectoral data with respect to health outcomes, algorithmic fairness and causal inference in public health settings.
+Advances in machine learning are critical for a better understanding of health. This track seeks contributions in modeling, inference, and estimation in health-focused or health-inspired settings. We welcome submissions that develop novel methods and algorithms, introduce relevant machine learning tasks and baselines, identify challenges with prevalent approaches, or suggest new evaluation metrics for assessing algorithmic advances. In addition, we welcome new algorithmic techniques for combining non-clinical and clinical data for public and population health applications, algorithms for public health goals, and causal inference in public health settings.
 
 While submissions should address problems relevant to health, the contributions themselves are not required to be directly applied to health. For example, authors may use synthetic datasets and experiments to demonstrate the properties of algorithms.
 
-Authors may consider one or more machine learning sub-discipline(s) from the following list: causal inference, time series, unsupervised learning, representation learning, survival analysis, natural language processing, knowledge graphs, deep learning architectures, Bayesian learning, inference, structured learning, computer vision, supervised learning, transfer learning, robust learning, domain adaptation or generalization and evaluation methods. Authors may also consider sub-disciplines not listed here.
+We welcome submissions that address research questions within any subfield of machine learning, broadly construed. The list of subfields below represent some areas of relevance we have identified in advance, but we do welcome submissions from other subfields as well.
 
-Upon submission, authors will select one or more relevant sub-discipline(s). Peer reviewers for a paper will be experts in the sub-discipline(s) selected upon its submission, so please select your relevant disciplines judiciously.
+#### Tasks
+- Supervised learning
+- Semi-supervised learning
+- Few-shot learning
+- Federated learning
+- Unsupervised learning
+- Transfer learning
+- Domain adaptation and generalization
+- Representation learning
+- Causal inference
+- Survival analysis
+- Reinforcement learning
+- Algorithmic fairness
 
-<br />
+#### Approaches
+- Deep learning
+- Bayesian methods
+- Stru- ctured learning
+- Adversarial learning
+- Robust statistics
+- Interpretability
+- Distribution shift
 
-**Examples:**
+#### Data modalities
+- Computer vision
+- Natural Language Processing
+- Electronic Health Record data
+- Spatio-temporal data
+- Claims data
+- Time-series
+- Social determinants of health
+- Knowledge graphs
+- Mobile health
+
+**Example papers**
 
 Shalit, Uri, Fredrik D. Johansson, and David Sontag. "Estimating individual treatment effect: generalization bounds and algorithms." Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017.
 
@@ -29,4 +55,6 @@ McDermott, Matthew BA, et al. "Semi-supervised biomedical translation with cycle
 
 Futoma, Joseph, Sanjay Hariharan, and Katherine Heller. "Learning to detect sepsis with a multitask Gaussian process RNN classifier." Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017.
 
-Neill, D.B., Moore, A.W., Sabhnani, M. and Daniel, K., 2005, August. Detection of emerging space-time clusters. In Proceedings of the eleventh ACM SIGKDD international conference on Knowledge discovery in data mining (pp. 218-227). ACM.
+Joseph D. Janizek, Gabriel Erion, Alex J. DeGrave, and Su-In Lee. 2020. An adversarial approach for the robust classification of pneumonia from chest radiographs. In Proceedings of the ACM Conference on Health, Inference, and Learning (ACM-CHIL '20). Association for Computing Machinery, New York, NY, USA, 69–79.
+
+Mate, A., Killian, J. A., Xu, H., Perrault, A., & Tambe, M. (2020). Collapsing Bandits and Their Application to Public Health Interventions. arXiv preprint arXiv:2007.04432 (NeurIPS 2020)

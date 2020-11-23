@@ -180,6 +180,7 @@ def schedule():
             format_paper(by_uid["papers"][h["UID"]]) for h in site_data["highlighted"]
         ],
     }
+    data["speakers"] = site_data["speakers"]
     data["schedule"] = open("./templates/content/schedule.md").read()
     return render_template("schedule.html", **data)
 
@@ -225,10 +226,16 @@ def committee():
     data["committee_governing_board"] = open(
         "./templates/content/committee-governing-board.md"
     ).read()
-    data["committee_senior_advisory_board"] = open(
-        "./templates/content/committee-senior-advisory-board.md"
+    data["committee_steering_committee"] = open(
+        "./templates/content/committee-steering-committee.md"
     ).read()
     return render_template("committee.html", **data)
+
+@app.route("/past-events.html")
+def past_events():
+    data = _data()
+    data["past_events_chil_2020"] = open("./templates/content/past-events-chil-2020.md").read()
+    return render_template("past-events.html", **data)
 
 
 def extract_list_field(v, key):

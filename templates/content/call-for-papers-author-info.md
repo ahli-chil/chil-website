@@ -1,10 +1,8 @@
-The ACM Conference on Health, Inference, and Learning (CHIL) solicits work across a variety of disciplines, including machine learning, statistics, epidemiology, health policy, operations, and economics. CHIL 2021 invites submissions touching on topics focused on relevant problems affecting health. Specifically, authors are invited to submit 8-10 page papers (with unlimited pages for references) to each of the tracks described below.
+The ACM Conference on Health, Inference, and Learning (CHIL) solicits work across a variety of disciplines, including machine learning, statistics, epidemiology, health policy, operations, and economics. ACM-CHIL 2021 invites submissions touching on topics focused on relevant problems affecting health. Specifically, authors are invited to submit 8-10 page papers (with unlimited pages for references) to each of the tracks described below.
 
-To ensure that all submissions to CHIL are reviewed by a knowledgeable and appropriate set of reviewers, the conference is divided into tracks and areas of interest. Authors will select exactly one primary track and area of interest when they register their submissions, in addition to one or more sub-disciplines.
+To ensure that all submissions to ACM-CHIL are reviewed by a knowledgeable and appropriate set of reviewers, the conference is divided into tracks and areas of interest. Authors will select exactly one primary track and area of interest when they register their submissions, in addition to one or more sub-disciplines.
 
-Track chairs will oversee the reviewing process. In case you are not sure which track your submission fits under, feel free to contact the track or PC chairs for clarification. The PC Chairs reserve the right to move submissions between tracks and/or areas of interest if the PC believes that a submission has been misclassified.
-
-<br />
+Track Chairs will oversee the reviewing process. In case you are not sure which track your submission fits under, feel free to contact the Track or Proceedings Chairs for clarification. The Proceedings Chairs reserve the right to move submissions between tracks and/or areas of interest if the Proceedings Chairs believe that a submission has been misclassified.
 
 ### Important Dates
 - Abstracts due – January 7, 2021
@@ -13,24 +11,18 @@ Track chairs will oversee the reviewing process. In case you are not sure which 
 - Camera Ready Due – March 5, 2021 (11:59 pm AoE)
 - Conference Date – April 8-10, 2021
 
-<br />
-
 ### Tracks
-- Track 1: Machine Learning: Models, Algorithms, Inference, and Estimation
-- Track 2: Applications and Practice: Investigation, Evaluation, Interpretation, and Deployment
+- Track 1: Models and Methods
+- Track 2: Applications and Practice
 - Track 3: Policy: Impact and Society
 
-<br />
-
 ### Sub-Disciplines
-These are called topics in the submission form. Authors should select one or more discipline(s) in machine learning for health (ML4H) from the following list when submitting their paper: benchmark datasets, distribution shift, transfer learning, population health, social networks, scaleable ML4H systems, natural language processing (NLP), computer vision, time series, bias/fairness, causality, *-omics, wearable-data, etc. Peer reviewers are assigned according to expertise in the sub-discipline(s) selected, so please choose your relevant topics carefully.
-
-<br />
+These are called topics in the submission form. Authors should select one or more discipline(s) in machine learning for health (ML4H) from the following list when submitting their paper: benchmark datasets, distribution shift, transfer learning, population health, social networks, scalable ML4H systems, natural language processing (NLP), computer vision, time series, bias/fairness, causality, *-omics, wearable-data, etc. Peer reviewers are assigned according to expertise in the sub-discipline(s) selected, so please choose your relevant topics carefully.
 
 ### Evaluation
-Works submitted to ACM CHIL will be reviewed by 3 reviewers within the broader field of machine learning for healthcare. Reviewers will be asked to primarily judge the work according to four criteria:
+Works submitted to ACM-CHIL will be reviewed by 3 reviewers within the broader field of machine learning for healthcare. Reviewers will be asked to primarily judge the work according to five criteria:
 
-**Relevance**: All submissions to ACM CHIL are expected to be relevant to health. Concretely, this means that the problem is well-placed into the relevant themes for the conference. We will instruct reviewers to gauge whether submissions are best suited for this track, or should be moved elsewhere.
+**Relevance**: All submissions to ACM-CHIL are expected to be relevant to health. Concretely, this means that the problem is well-placed into the relevant themes for the conference. We will instruct reviewers to gauge whether submissions are best suited for this track, or should be moved elsewhere.
 
 **Quality**: Is the submission technically sound? Are claims well supported by theoretical analysis or experimental results? Is this a complete piece of work or work in progress? Are the authors careful and honest about evaluating both the strengths and weaknesses of their work?
 
@@ -40,9 +32,7 @@ Works submitted to ACM CHIL will be reviewed by 3 reviewers within the broader f
 
 **Significance**: Are the results important? Are others (researchers or practitioners) likely to use the ideas or build on them? Does the submission address a difficult task in a better way than previous work? Does it advance the state of the art in a demonstrable way? Does it provide unique data, unique conclusions about existing data, or a unique theoretical or experimental approach?
 
-Final decisions will be made in accordance with the reviewer'sto reviewer’s overall judgement, along with their subjective ratings of confidence/expertise, and according to our own editorial judgement.
-
-<br />
+Final decisions will be made in accordance with the reviewer’s overall judgement, along with their subjective ratings of confidence/expertise, and according to our own editorial judgement.
 
 ### Submission Format and Guidelines
 **Submission Site**
@@ -56,33 +46,25 @@ Papers should be formatted using the [ACM Master Article Template](https://www.a
 **Archival Submissions**
 Submissions to the main conference are considered archival and will appear in the published proceedings of the conference if accepted. Author notification of acceptance will be provided towards mid-February 2021.
 
-<br />
-
 ### Peer Review
 The review process is double-blind. Please submit completely anonymized drafts. Please do not include any identifying information, and refrain from citing the authors’ own prior work in anything other than third-person. Violations to this policy may result in rejection without review.
 
 Conference organizers and reviewers are required to maintain confidentiality of submitted material. Upon acceptance, the titles, authorship, and abstracts of papers will be released prior to the conference.
-
-<br />
 
 ### Camera Ready
 For accepted papers, authors will need to provide the following camera-ready materials by March 5:
 
 - Metadata for the eRights system
 - Submit forms for approval
-- Final versions of papers via FTP
+- Final versions of papers
 - Dual Submission Policy
 
 You may not submit papers that are identical, or substantially similar to versions that are currently under review at another conference or journal, have been previously published, or have been accepted for publication. Submissions to the main conference are considered archival and will appear in the published proceedings of the conference if accepted.
 
-An exception to this rule is extensions of workshop papers that have previously appeared in non-archival venues, such as workshops, arXiv, or similar without formal proceedings. These works may be submitted as-is or in an extended form. CHIL also welcomes full paper submission that extend previously published short papers or abstracts, so long as the previously published version does not exceed 4 pages in length. Note that the submission should not cite the workshop/report and preserve anonymity in the submitted manuscript.
-
-<br />
+An exception to this rule is extensions of workshop papers that have previously appeared in non-archival venues, such as workshops, arXiv, or similar without formal proceedings. These works may be submitted as-is or in an extended form. ACM-CHIL also welcomes full paper submission that extend previously published short papers or abstracts, so long as the previously published version does not exceed 4 pages in length. Note that the submission should not cite the workshop/report and preserve anonymity in the submitted manuscript.
 
 ### Open Access
-ACM CHIL is committed to open science and ensuring our proceedings are freely available. The conference will make use of the ‘ACM Authorizer “Open Access” Service’ and ‘ACM OpenTOC Service’, allowing unrestricted access to individual papers as well as the overall proceedings, [see here](https://www.acm.org/publications/openaccess) for more details.
-
-<br />
+ACM-CHIL is committed to open science and ensuring our proceedings are freely available. The conference will make use of the ‘ACM Authorizer “Open Access” Service’ and ‘ACM OpenTOC Service’, allowing unrestricted access to individual papers as well as the overall proceedings, [see here](https://www.acm.org/publications/openaccess) for more details.
 
 ### Ethics Guidelines
-ACM CHIL abides by ethics guidelines provided here: [ACM Ethics guidelines](https://ethics.acm.org/).
+ACM-CHIL abides by ethics guidelines provided here: [ACM Ethics guidelines](https://ethics.acm.org/).

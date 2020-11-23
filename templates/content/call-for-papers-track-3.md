@@ -1,18 +1,12 @@
-<center> **Track 3: Impact and Society** </center>
-
 ### Track Chairs
 - Dr. Alistair Johnston
 - Dr. Rumi Chunara
 - Dr. George Chen
 
-<br />
-
 ### Description
 Algorithms do not exist in the digital world alone: indeed, they often explicitly take aim at important social outcomes. This track considers issues at the intersection of algorithms and the societies they seek to impact, specifically with respect to health. Submissions could include methodological contributions such as algorithmic development and performance evaluation for policy and public health applications, combining clinical and non-clinical data, as well as detecting and measuring bias. Submissions could also include impact-oriented research such as determining how algorithmic systems for health may introduce, exacerbate, or reduce inequities and inequalities, discrimination, and unjust outcomes, as well as evaluating the economic implications of these systems. Submissions related to understanding barriers to deployment and adoption of algorithmic systems for societal-level health applications are also of interest. In addressing these problems, insights from social sciences, law, clinical medicine, and the humanities can be crucial.
 
 We welcome papers from various areas of interest (see list below) and at least one sub-discipline upon abstract registration.
-
-<br />
 
 ### Areas of interest
 - Fairness, equity, ethics and justice
@@ -24,8 +18,6 @@ We welcome papers from various areas of interest (see list below) and at least o
 - Tools for adoption of ML
 - Evaluation of bias in legal and/or health contexts
 - Human-algorithm interaction
-
-<br />
 
 **Example papers**
 
