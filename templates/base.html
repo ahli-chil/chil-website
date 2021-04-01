@@ -50,16 +50,10 @@
   ('calendar.html', 'Program'),
   ] -%}
 
-  {% set organization_bar = [
+  {% set organization_dropdown_bar = [
   ('committee.html', 'Committee'),
   ('sponsor.html', 'Sponsorship'),
   ('call-for-papers.html', 'Call for Papers'),
-  ] -%}
-
-  {% set organization_bar_values = [
-    'Committee',
-    'Sponsorship',
-    'Call for Papers',
   ] -%}
 
   {# Removed navigation_bar ENTRIES
@@ -104,13 +98,13 @@
                   <a class="nav-link" href="/{{href}}">{{id}}</a>
               </li>
               {% endfor %}
-              {% if organization_bar %}
-              <li class="nav-item dropdown {% if  active_page in organization_bar_values %}active{% endif %}">
+              {% if organization_dropdown_bar %}
+              <li class="nav-item dropdown {% if {% if  active_page == 'Organization' %}active{% endif %}">
                 <a class="nav-link dropdown-toggle" href="#" id="organizationDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Organization
                 </a>
                 <div class="dropdown-menu dropdown-menu-lg-right" aria-labelledby="organizationDropdown">
-                {% for href, id in organization_bar %}
+                {% for href, id in organization_dropdown_bar %}
                   <a class="dropdown-item" href="/{{href}}">{{id}}</a>
                 {% endfor %}
                 </div>
