@@ -1,4 +1,4 @@
-##### **General Chair**
+##### **General Chairs**
 - Dr. Tristan Naumann of Microsoft Research
 - Dr. Joyce Ho of Emory University
 ##### **Program Chairs**
