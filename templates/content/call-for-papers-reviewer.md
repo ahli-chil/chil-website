@@ -98,9 +98,3 @@ Between 3/10 and 3/24, you (a CHIL reviewer) will be expected to participate in 
 We expect brief but thoughtful engagement from all reviewers here. For some papers, this would involve several iterations of feedback-response. A simplistic response of “I have read the authors’ response and I chose to keep my score unchanged” is not sufficient, because it does not provide detailed reasoning about what weaknesses are still salient and why the response is not sufficient. Please engage meaningfully!
 
 Track Chairs will work with reviewers to try to reach a consensus decision about each paper by 3/24. In the event that consensus is not reached, Track Chairs make final decisions about acceptance.
-
-
-
-
-
-
