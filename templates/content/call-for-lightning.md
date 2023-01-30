@@ -23,7 +23,7 @@ Final decisions will be made by Unconference Chairs, taking into account reviewe
 
 ### Submission Format and Guidelines
 #### Submission Site
-Submissions should be made via a Google Form. At least one author of each accepted paper is required to register for, attend, and present the work at the conference.
+Submissions should be made via the following Google Form: [https://forms.gle/gL5KNaV6fTKHPQJP8](https://forms.gle/gL5KNaV6fTKHPQJP8). At least one author of each accepted paper is required to register for, attend, and present the work at the conference.
 
 #### Length and Formatting
 Abstracts are allowed a maximum of 1 page using 12 point font, single-spacing, and 1-inch margins.  Submissions are allowed unlimited pages for references.  The abstract should be submitted as a PDF.  
