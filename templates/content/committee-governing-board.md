@@ -323,7 +323,7 @@ $(function(){
     <div class="thumbnail">
         <a href="website">
         <img 
-            src="static/images/organizers/chengxi_zang.jpeg"
+            src="static/images/organizers/chengxi_zang.jpg"
             alt="Chengxi Zang headshot"
             style="width:88%"
             align="center">
@@ -344,7 +344,7 @@ $(function(){
     <div class="thumbnail">
         <a href="website">
         <img 
-            src="static/images/organizers/van_truong.jpeg"
+            src="static/images/organizers/van_truong.png"
             alt="Van Truong headshot"
             style="width:88%"
             align="center">
@@ -365,7 +365,7 @@ $(function(){
     <div class="thumbnail">
         <a href="website">
         <img 
-            src="static/images/organizers/monica_munnangi.jpeg"
+            src="static/images/organizers/monica_munnangi.jpg"
             alt="Monica Munnangi headshot"
             style="width:88%"
             align="center">
@@ -407,7 +407,7 @@ $(function(){
     <div class="thumbnail">
         <a href="website">
         <img 
-            src="static/images/organizers/ahmed_alaa.jpeg"
+            src="static/images/organizers/ahmed_alaa.png"
             alt="Ahmed Alaa headshot"
             style="width:88%"
             align="center">
@@ -470,7 +470,7 @@ $(function(){
     <div class="thumbnail">
         <a href="website">
         <img 
-            src="static/images/organizers/edward_choi.jpeg"
+            src="static/images/organizers/edward_choi.png"
             alt="Edward Choi headshot"
             style="width:88%"
             align="center">
@@ -512,7 +512,7 @@ $(function(){
     <div class="thumbnail">
         <a href="website">
         <img 
-            src="static/images/organizers/michael_hughes.jpeg"
+            src="static/images/organizers/michael_hughes.jpg"
             alt="Michael Hughes headshot"
             style="width:88%"
             align="center">
@@ -554,7 +554,7 @@ $(function(){
     <div class="thumbnail">
         <a href="website">
         <img 
-            src="static/images/organizers/bobak_mortazavi.jpeg"
+            src="static/images/organizers/bobak_mortazavi.jpg"
             alt="Bobak Mortazavi headshot"
             style="width:88%"
             align="center">
