@@ -31,11 +31,11 @@ To deliver high-quality reviews, you are expected to participate in the four pha
 	- Workload: 2-5 papers per reviewer
 	- Time commitment: ~1-2 hours per paper
 
-### <a name="bidding"></a>Bidding
+### Phase 1: <a name="bidding"></a>Bidding
 
 After the submission deadline, you will be invited to "bid" for your preferred papers in OpenReview, based on titles and abstracts. Bidding instructions will be provided via email. Please bid promptly and generously!
 
-### <a name="assignment"></a>Assignment
+### Phase 2: <a name="assignment"></a>Assignment
 
 After the bidding period closes, you will be formally assigned 2-5 papers to review. We ask you to promptly skim your papers to ensure:
 
@@ -45,7 +45,7 @@ After the bidding period closes, you will be formally assigned 2-5 papers to rev
 
 If you feel that you cannot offer an informed opinion about the quality of the paper due to expertise mismatch, please write to your assigned Area Chair on OpenReview. Area Chairs will do their best to ensure that each submission has the most competent reviewers available in the pool.
 
-### <a name="reviewing"></a>Reviewing
+### Phase 3: <a name="reviewing"></a>Review
 
 You will be asked to complete thoughtful, constructive reviews for all assigned papers. Please ensure that your reviews are completed before the deadline, and sooner if possible. For each paper, you will fill out a form on OpenReview, similar to the form below. To help us to ensure consistency and quality, all reviews are subject to internal checks that may be manual or automated.
 
@@ -87,7 +87,7 @@ If you would like feedback on a review, we recommend asking a mentor or colleagu
 - Track 2: the contribution of this track should be either more focused on solving a carefully motivated problem grounded in applications or on deployments or datasets that enable exploration and evaluation of applications
 - Track 3: meaningful contributions to this track can include a broader scope of contribution beyond algorithmic development. Innovative and impactful use of existing techniques is encouraged
 
-### <a name="discussion"></a>Discussion
+### Phase 4: <a name="discussion"></a>Discussion
 
 During the discussion period, you will be expected to participate in discussions on OpenReview by reading the authors’ responses and comments from other reviewers, adding additional comments from your perspective, and updating your review accordingly.
 
