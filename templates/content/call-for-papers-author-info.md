@@ -21,7 +21,7 @@ Specifically, authors are invited to submit 8-10 page papers (with unlimited pag
 ### Submission Tracks
 - Track 1 - Models and Methods: Algorithms, Inference, and Estimation
 - Track 2 - Applications and Practice: Investigation, Evaluation, Interpretations, and Deployment
-- Track 3 - Policy: Impact and Society: Policy, Public Health, Social Outcomes, and Economics
+- Track 3 - Impact and Society: Policy, Public Health, Social Outcomes, and Economics
 
 <!-- For mode detail on the scope of each track, including examples of papers that would be suitable for each track, please refer to the track descriptions available at the top of this page. -->
 
