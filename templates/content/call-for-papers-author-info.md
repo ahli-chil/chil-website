@@ -2,7 +2,7 @@ The AHLI Conference on Health, Inference, and Learning (CHIL) solicits work acro
 
 Specifically, authors are invited to submit 8-10 page papers (with unlimited pages for references) to one of 3 possible tracks: Models and Methods, Applications and Practice, or Impact and Society. Each track is described in detail below. Authors will select exactly one primary track when they register each submission, in addition to one or more sub-disciplines. Appropriate track and sub-discipline selection will ensure that each submission is reviewed by a knowledgeable set of reviewers. Track Chairs will oversee the reviewing process. In case you are not sure which track your submission fits under, feel free to contact the Track or Proceedings Chairs for clarification. The Proceedings Chairs reserve the right to move submissions between tracks if they believe that a submission has been misclassified.
 
-### Important Dates (all times are, anywhere on Earth, AoE)
+### Important Dates (all times are anywhere on Earth, AoE)
 
 - Submissions due: Feb 5, 2024 at 11:59pm
 - Bidding opens for reviewers: Feb 6, 2024 at 11:59pm
