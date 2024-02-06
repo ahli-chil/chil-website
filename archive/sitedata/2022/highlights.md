@@ -2,7 +2,7 @@
 <!-- Slides Live-->
 <div class="row p-3">
     <div class="col-12 bd-content">
-    <h3>Day 1 - April 7th</h3>
+    <h3>Day 1</h3>
     </div>
 </div>
 <div id="slideslive-embed" class="col-md-12 col-xs-12 my-auto p-2 hide" data-activedate="2021-04-14T23:59:00.00">
@@ -19,7 +19,7 @@
 </div>
 <div class="row p-3">
     <div class="col-12 bd-content">
-    <h3>Day 2 - April 8th</h3>
+    <h3>Day 2</h3>
     </div>
 </div>
 <div id="slideslive-embed2" class="col-md-12 col-xs-12 my-auto p-2 hide" data-activedate="2021-04-14T23:59:00.00">

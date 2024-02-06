@@ -13,7 +13,7 @@ _Note that although ACM CHIL 2020 was held in July, the CFP timelines targeted a
 - Submissions due – January 13, 2020 (11:59 pm AoE)
 - Notification of Acceptance – Feb 12, 2020 (11:59 pm AoE)
 - Camera Ready Due – March 6, 2020 (11:59 pm AoE)
-- (Original) Conference Date – April 2-4, 2020
+- (Original) Conference Date –  2020
 
 #### Tracks
 
