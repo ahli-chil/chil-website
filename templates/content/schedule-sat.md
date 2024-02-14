@@ -23,13 +23,13 @@
     </tr>
      <tr>
       <td>9:05am - 9:55am</td>
-      <td><a href="program.html#tab-invited">Invited Talk on Research and Top Recent Papers from 2020-2022</a><br>
+      <td><a href="speakers.html#tab-invited">Invited Talk on Research and Top Recent Papers from 2020-2022</a><br>
       <span class="font-italic"><span class="font-weight-bold">Suchi Saria, PhD,</span> Johns Hopkins University & Bayesian Health</span></td>
       <td>CSAIL Kirsch Auditorium</td>
     </tr>
      <tr>
       <td>9:55am - 10:45am</td>
-      <td><a href="program.html#tab-invited">Invited Talk on Recent Deployments and Real-world Impact</a><br>
+      <td><a href="speakers.html#tab-invited">Invited Talk on Recent Deployments and Real-world Impact</a><br>
         <span class="font-italic"><span class="font-weight-bold">Karandeep Singh, MD,</span> University of Michigan</span>
       </td> 
       <td>CSAIL Kirsch Auditorium</td>
@@ -41,14 +41,14 @@
     </tr>
     <tr>
       <td>11:10am - 12:00pm</td>
-      <td><a href="program.html#tab-invited">Invited Talk on Under-explored Research Challenges and Opportunities</a><br>
+      <td><a href="speakers.html#tab-invited">Invited Talk on Under-explored Research Challenges and Opportunities</a><br>
         <span class="font-italic"><span class="font-weight-bold">Nigam Shah, MBBS, PhD,</span> Stanford University</span>
       </td>
       <td>CSAIL Kirsch Auditorium</td>
     </tr>
      <tr>
       <td>12:00pm - 12:45pm</td>
-      <td><a href="program.html#tab-invited">Machine Learning for Healthcare in the Era of ChatGPT</a><br>
+      <td><a href="speakers.html#tab-invited">Machine Learning for Healthcare in the Era of ChatGPT</a><br>
         <span class="font-italic"><span class="font-weight-bold">Karandeep Singh, MD,</span> University of Michigan, <span class="font-weight-bold">Nigam Shah, MBBS, PhD,</span> Stanford University, <span class="font-weight-bold">Saadia Gabriel, PhD,</span> MIT, and <span class="font-italic"><span class="font-weight-bold">Tristan Naumann, PhD,</span> Microsoft Research</span>. Moderated by <span class="font-weight-bold">Byron Wallace, PhD,</span> Northeastern University</span>.
 </td>
       <td>CSAIL Kirsch Auditorium</td>
@@ -64,28 +64,28 @@
     </tr>
     <tr>
       <td>1:30pm - 1:50pm</td>
-      <td><a href="program.html#tab-debates">NetworkStudies: As Many Databases as Possible or Enough to Answer the Question Quickly?</a><br>
+      <td><a href="speakers.html#tab-debates">NetworkStudies: As Many Databases as Possible or Enough to Answer the Question Quickly?</a><br>
         <span class="font-italic"><span class="font-weight-bold">Christopher Chute, MD,</span> Johns Hopkins University and <span class="font-weight-bold">Robert Platt, PhD,</span> McGill University</span>
       </td>
       <td>CSAIL Kirsch Auditorium</td>
     </tr>
      <tr>
       <td>1:50pm - 2:10pm</td>
-      <td><a href="program.html#tab-debates">Data Heterogeneity: More Heterogeneous Data or Less Homogeneous Data?</a><br>
+      <td><a href="speakers.html#tab-debates">Data Heterogeneity: More Heterogeneous Data or Less Homogeneous Data?</a><br>
         <span class="font-italic"><span class="font-weight-bold">Tianxi Cai, ScD,</span> Harvard Medical School and <span class="font-weight-bold">Yong Chen, PhD,</span> University of Pennsylvania</span>
       </td>
       <td>CSAIL Kirsch Auditorium</td>
     </tr>
     <tr>
       <td>2:10pm - 2:30pm</td>
-      <td><a href="program.html#tab-debates">Differential Privacy vs. Synthetic Data</a><br>
+      <td><a href="speakers.html#tab-debates">Differential Privacy vs. Synthetic Data</a><br>
         <span class="font-italic"><span class="font-weight-bold">Khaled El Emam, PhD,</span> University of Ottawa and <span class="font-weight-bold">Li Xiong, PhD,</span> Emory University</span>
       </td>
       <td>CSAIL Kirsch Auditorium</td>
     </tr>
      <tr>
       <td>2:30pm - 3:00pm</td>
-      <td><span class="font-weight-bold"><a href="program.html#tab-roundtables">Session XI: Research Roundtables</a></span><br>
+      <td><span class="font-weight-bold"><a href="speakers.html#tab-roundtables">Session XI: Research Roundtables</a></span><br>
         Bridging the gap between the business of value-based care and the research of health AI, <span class="font-italic"><span class="font-weight-bold">Yubin Park, PhD</span>, ApolloMed</span><br>
         Auditing Algorithm Performance and Equity, <span class="font-italic"><span class="font-weight-bold">Alistair Johnson, DPhil</span>, Hospital for Sick Children</span><br>
         Data privacy: Interactive or Non-interactive?, <span class="font-italic"><span class="font-weight-bold">Khaled El Emam, PhD,</span> University of Ottawa and <span class="font-weight-bold">Li Xiong, PhD,</span> Emory University</span><br>
