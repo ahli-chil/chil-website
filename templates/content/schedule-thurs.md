@@ -3,60 +3,50 @@
     <tr>
       <th style='width:15%'>Time</th>
       <th style='width:70%'>Title</th>
-      <th style='width:15'>Location</th>
     </tr>
 	</thead>
 	 <tbody>
     <tr>
       <td>8:00am</td>
       <td>Registration</td>
-      <td>1st Floor Lobby</td>
     </tr>
     <tr>
       <td>9:00am - 9:05am</td>
       <td>Opening Remarks</td>
-      <td>1st Floor Main Space</td>
     </tr>
     <tr>
       <td></td>
       <td class="keynote"><span class="border-left-0"><span class="font-weight-bold">Keynote Session I</span></span></td>
-      <td></td>
     </tr>
      <tr>
       <td>9:05am - 9:35am</td>
       <td><a href="speakers.html#tab-keynotes">Keynote: TBA</a><br>
       </td>
-      <td>1st Floor Main Space</td>
     </tr>
     <tr>
       <td>9:35am - 10:05am</td>
       <td><a href="speakers.html#tab-keynotes"></a><!-- <br> -->
         <span class="font-italic"><span class="font-weight-bold">Samantha Kleinberg, PhD,</span> Stevens Institute of Technology</span>
       </td> 
-      <td>1st Floor Main Space</td>
     </tr>
     <tr>
       <td>10:05am - 10:15am</td>
       <td>Opening Keynotes Q&A</td>
-      <td>1st Floor Main Space</td>
     </tr>
     <tr>
       <td>10:15am - 10:45am</td>
       <td>Coffee Break</td>
-      <td>1st Floor Main Space</td>
     </tr>
     <tr>
       <td>10:45am - 11:30am</td>
       <td><a href="speakers.html#tab-ml_health">State of ML for Health</a><br>
         <span class="font-italic"><span class="font-weight-bold">Zak Kohane, MD, PhD,</span> Harvard University</span>
       </td> 
-      <td>1st Floor Main Space</td>
     </tr>
     </tr>
      <tr>
       <td>11:30am - 12:45pm</td>
       <td><span class="font-weight-bold">Sponsor Break with Booths / Lunch Tables</span></td>
-      <td>2nd Floor Classrooms</td>
     </tr>
     <tr>
       <td>12:45PM - 1:45pm</td>
@@ -70,36 +60,30 @@
         <span class="font-italic"><span class="font-weight-bold">William La Cava</span>, Elle Lett, Guangya Wan</span>: <a href="proceeding_P23.html">Fair Admission Risk Prediction with Proportional Multicalibration</a>
         -->
         </td>
-      <td>1st Floor Main Space</td>
     </tr>
     <tr>
       <td></td>
       <td class="keynote"><span class="border-left-0"><span class="font-weight-bold">Keynote Session II</span></span></td>
-      <td>
     </tr>
      <tr>
       <td>1:45pm - 2:15pm</td>
       <td><a href="speakers.html#tab-keynotes"></a><!-- <br> -->
         <span class="font-italic"><span class="font-weight-bold">Deb Raji, BASc,</span> UC Berkeley</span>
       </td> 
-      <td>1st Floor Main Space</td>
     </tr>
      <tr>
       <td>2:15pm - 2:45pm</td>
       <td><a href="speakers.html#tab-keynotes"></a><!-- <br> -->
         <span class="font-italic"><span class="font-weight-bold">Sanmi Koyejo, PhD,</span> Stanford University</span>
       </td> 
-      <td>1st Floor Main Space</td>
     </tr>
     <tr>
       <td>2:45pm - 3:00pm</td>
       <td>Closing Keynotes Q&A</td>
-      <td>1st Floor Main Space</td>
     </tr>
     <tr>
       <td>3:00pm - 3:30pm</td>
       <td>Coffee Break</td>
-      <td>1st Floor Main Space</td>
     </tr>
     <tr>
     <tr>
@@ -107,12 +91,10 @@
       <td><a href="speakers.html#tab-tutorials">Tutorial</a><br>
         <span class="font-italic"><span class="font-weight-bold">Katie Link, BS,</span> Hugging Face</span>
       </td> 
-      <td>1st Floor Main Space</td>
      <tr>
       <td>5:00ppm - 6:00pm</td>
       <td><span class="font-weight-bold"><a>Poster Session</a>
         <!--<a href="proceedings.html#tab-postera">Poster Session </a>--></span></td>
-      <td>2nd Floor Gallery</td>
     </tr>
   </tbody>
 </table>
