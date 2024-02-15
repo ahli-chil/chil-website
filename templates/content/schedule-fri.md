@@ -26,7 +26,7 @@
     </tr>
     <tr>
       <td></td>
-      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold">Keynote Session III</span></span></td>
+      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold"><a href="speakers.html#tab-keynotes">Keynote Session III</a></span></span></td>
     </tr>
      <tr>
       <td>10:20am - 10:50am</td>

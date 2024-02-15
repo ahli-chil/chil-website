@@ -16,11 +16,12 @@
     </tr>
     <tr>
       <td></td>
-      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold">Keynote Session I</span></span></td>
+      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold"><a href="speakers.html#tab-keynotes">Keynote Session I</a></span></span></td>
     </tr>
      <tr>
       <td>9:05am - 9:35am</td>
-      <td><a href="speakers.html#tab-keynotes">Keynote: TBA</a><br>
+      <td>
+<span class="font-italic"><span class="font-weight-bold">Hamsa Bastani, PhD,</span> University of Pennsylvania</span>
       </td>
     </tr>
     <tr>
@@ -63,7 +64,7 @@
     </tr>
     <tr>
       <td></td>
-      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold">Keynote Session II</span></span></td>
+      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold"><a href="speakers.html#tab-keynotes">Keynote Session II</a></span></span></td>
     </tr>
      <tr>
       <td>1:45pm - 2:15pm</td>
