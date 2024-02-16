@@ -1,1 +1,1 @@
-<p class="text-center">This schedule is subject to change. All times are in Eastern Daylight Time (EDT).</p>
+<p class="text-center">This program is subject to change. All times are in Eastern Daylight Time (EDT).</p>

@@ -3,65 +3,94 @@
     <tr>
       <th style='width:15%'>Time</th>
       <th style='width:70%'>Title</th>
-      <th style='width:15'>Location</th>
     </tr>
 	</thead>
 	 <tbody>
     <tr>
       <td>8:00am</td>
       <td>Registration</td>
-      <td>1st Floor Lobby</td>
     </tr>
     <tr>
       <td>9:00am - 9:05am</td>
       <td>Opening Remarks</td>
-      <td>1st Floor Main Space</td>
     </tr>
     <tr>
       <td></td>
-      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold">Keynote Session I</span></span></td>
-      <td></td>
+      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold"><a href="speakers.html#tab-keynotes">Keynote Session I</a></span></span></td>
     </tr>
      <tr>
       <td>9:05am - 9:35am</td>
-      <td><a href="program.html#tab-keynotes">Keynote: TBA</a><br>
+      <td>
+<span class="font-italic"><span class="font-weight-bold">Hamsa Bastani, PhD,</span> University of Pennsylvania</span>
       </td>
-      <td>1st Floor Main Space</td>
     </tr>
     <tr>
       <td>9:35am - 10:05am</td>
-      <td><a href="program.html#tab-keynotes"></a><!-- <br> -->
+      <td><a href="speakers.html#tab-keynotes"></a><!-- <br> -->
         <span class="font-italic"><span class="font-weight-bold">Samantha Kleinberg, PhD,</span> Stevens Institute of Technology</span>
       </td> 
-      <td>1st Floor Main Space</td>
     </tr>
     <tr>
-      <td>10:05am - 10:15am</td>
+      <td>10:05am - 10:25am</td>
       <td>Opening Keynotes Q&A</td>
-      <td>1st Floor Main Space</td>
     </tr>
     <tr>
-      <td>10:15am - 10:45am</td>
+      <td>10:25am - 10:45am</td>
       <td>Coffee Break</td>
-      <td>1st Floor Main Space</td>
     </tr>
     <tr>
       <td>10:45am - 11:30am</td>
-      <td><a href="program.html#tab-ml_health">State of ML for Health</a><br>
+      <td><a href="speakers.html#tab-ml_health">State of ML for Health:  Underloved Innovations/Rescue From Obscurity</a><br>
         <span class="font-italic"><span class="font-weight-bold">Zak Kohane, MD, PhD,</span> Harvard University</span>
       </td> 
-      <td>1st Floor Main Space</td>
-    </tr>
     </tr>
      <tr>
-      <td>11:30am - 12:45pm</td>
-      <td><span class="font-weight-bold">Sponsor Break with Booths / Lunch Tables</span></td>
-      <td>2nd Floor Classrooms</td>
+      <td>11:30am - 11:40am</td>
+      <td>State of ML Q&A</td>
+    </tr>
+     <tr>
+      <td>11:40am - 12:40pm</td>
+      <td>Sponsor Break with Booths / Lunch Tables</td>
     </tr>
     <tr>
-      <td>12:45PM - 1:45pm</td>
-      <td><span class="font-weight-bold">Panel: Health Economics and Behavior</span><br>
-        <a href="program.html#tab-panels">Panel Discussion</a><br>
+      <td>12:40pm - 1:30pm</td>
+      <td>Poster Session</td>
+    </tr>
+    <tr>
+      <td>1:30pm - 3:00pm</td>
+      <td>
+        <a href="speakers.html#tab-tutorials">Tutorial: Clinical LLM "Red Teaming"</a><br>
+        <span class="font-italic"><span class="font-weight-bold">Katie Link, BS,</span> Hugging Face</span>
+      </td> 
+     <tr>
+    <tr>
+      <td>3:000pm - 3:20pm</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold"><a href="speakers.html#tab-keynotes">Keynote Session II</a></span></span></td>
+    </tr>
+     <tr>
+      <td>3:20pm - 3:50pm</td>
+      <td><a href="speakers.html#tab-keynotes"></a><!-- <br> -->
+        <span class="font-italic"><span class="font-weight-bold">Deb Raji, BASc,</span> UC Berkeley</span>
+      </td> 
+    </tr>
+     <tr>
+      <td>3:50pm - 4:20pm</td>
+      <td><a href="speakers.html#tab-keynotes"></a><!-- <br> -->
+        <span class="font-italic"><span class="font-weight-bold">Sanmi Koyejo, PhD,</span> Stanford University</span>
+      </td> 
+    </tr>
+    <tr>
+      <td>4:20pm - 4:40pm</td>
+      <td>Closing Keynotes Q&A</td>
+    </tr>
+    <tr>
+      <td>4:40PM - 5:40pm</td>
+      <td>
+        <a href="speakers.html#tab-panels">Panel: Health Economics and Behavior</a><br>
         <span class="font-italic"><span class="font-weight-bold">Kyra Gan, PhD,</span> Cornell University, <span class="font-italic"><span class="font-weight-bold">David Meltzer, MD, PhD,</span> University of Chicago</span></span>       
         <!--
         <span class="font-italic">Li Xu, Bo Liu, Ameer Hamza Khan, Lu Fan, <span class="font-weight-bold">Xiao-Ming Wu</span></span>: <a href="proceeding_P13.html">Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark</a><br>
@@ -70,49 +99,6 @@
         <span class="font-italic"><span class="font-weight-bold">William La Cava</span>, Elle Lett, Guangya Wan</span>: <a href="proceeding_P23.html">Fair Admission Risk Prediction with Proportional Multicalibration</a>
         -->
         </td>
-      <td>1st Floor Main Space</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold">Keynote Session II</span></span></td>
-      <td>
-    </tr>
-     <tr>
-      <td>1:45pm - 2:15pm</td>
-      <td><a href="program.html#tab-keynotes"></a><!-- <br> -->
-        <span class="font-italic"><span class="font-weight-bold">Deb Raji, BASc,</span> UC Berkeley</span>
-      </td> 
-      <td>1st Floor Main Space</td>
-    </tr>
-     <tr>
-      <td>2:15pm - 2:45pm</td>
-      <td><a href="program.html#tab-keynotes"></a><!-- <br> -->
-        <span class="font-italic"><span class="font-weight-bold">Sanmi Koyejo, PhD,</span> Stanford University</span>
-      </td> 
-      <td>1st Floor Main Space</td>
-    </tr>
-    <tr>
-      <td>2:45pm - 3:00pm</td>
-      <td>Closing Keynotes Q&A</td>
-      <td>1st Floor Main Space</td>
-    </tr>
-    <tr>
-      <td>3:00pm - 3:30pm</td>
-      <td>Coffee Break</td>
-      <td>1st Floor Main Space</td>
-    </tr>
-    <tr>
-    <tr>
-      <td>3:30pm - 5:00pm</td>
-      <td><a href="program.html#tab-tutorials">Tutorial</a><br>
-        <span class="font-italic"><span class="font-weight-bold">Katie Link, BS,</span> Hugging Face</span>
-      </td> 
-      <td>1st Floor Main Space</td>
-     <tr>
-      <td>5:00ppm - 6:00pm</td>
-      <td><span class="font-weight-bold"><a>Poster Session</a>
-        <!--<a href="proceedings.html#tab-postera">Poster Session </a>--></span></td>
-      <td>2nd Floor Gallery</td>
     </tr>
   </tbody>
 </table>
