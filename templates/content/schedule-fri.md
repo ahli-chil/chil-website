@@ -16,12 +16,16 @@
     </tr>
     <tr>
       <td>9:05am - 9:50am</td>
-      <td><a href="speakers.html#tab-ml_health">State of ML for Health</a><br>
+      <td><a href="speakers.html#tab-ml_health">State of ML for Health: LLMs in Health</a><br>
         <span class="font-italic"><span class="font-weight-bold">Kyunghyun Cho, PhD,</span> NYU</span>
       </td> 
+    </tr>    
+    <tr>
+      <td>9:50am - 10:00am</td>
+      <td>State of ML Q&A</td>
     </tr>
     <tr>
-      <td>9:50am - 10:20am</td>
+      <td>10:00am - 10:20am</td>
       <td>Coffee Break</td>
     </tr>
     <tr>
@@ -45,8 +49,8 @@
       <td>Opening Keynotes Q&A</td>
     </tr>
      <tr>
-      <td>11:30am - 12:30pm</td>
-      <td><span class="font-weight-bold">Research Roundtables</span>
+      <td>11:30am - 1:30pm</td>
+      <td>Lunch / Research Roundtables</td>
         <!--
         <a href="speakers.html#tab-roundtables">Research Roundtables</a>
         <br>
@@ -57,19 +61,20 @@
         NetworkStudies: As Many Databases as Possible or Enough to Answer the Question Quickly?, <span class="font-italic"><span class="font-weight-bold">Christopher Chute, MD,</span> Johns Hopkins University and <span class="font-weight-bold">Robert Platt, PhD,</span> McGill University</span></td>
         -->
     </tr>
-     <tr>
-      <td>12:30pm - 1:30pm</td>
-      <td><span class="font-weight-bold">Sponsor Break / Lunch</span></td>
-    </tr>
     <tr>
       <td>1:30pm - 2:15pm</td>
       <td><a href="speakers.html#tab-ml_health">State of ML for Health: Deployments & Real-world Impact</a><br>
         <span class="font-italic"><span class="font-weight-bold">Leo Celi, MD,</span> Massachusetts Institute of Technology</span>
       </td> 
     </tr>
-      <td>2:15PM - 3:15pm</td>
-      <td><span class="font-weight-bold">Panel: Real Deployments, and How to Find Them</span><br>
-        <a href="speakers.html#tab-panels">Panel Discussion</a><br>
+    <tr>
+      <td>2:15pm - 2:25pm</td>
+      <td>State of ML Q&A</td>
+    </tr>
+    <tr>
+      <td>2:25pm - 3:25pm</td>
+      <td>
+        <a href="speakers.html#tab-panels">Panel: Real Deployments, and How to Find Them</a><br>
         <span class="font-italic"><span class="font-weight-bold">Roy Perlis, MD,</span> Harvard University, <span class="font-italic"><span class="font-weight-bold">Girish Nadkarni, MD, MPH,</span> Mount Sinai, <span class="font-italic"><span class="font-weight-bold">Ashley Beecy, MD,</span> NewYork-Presbyterian </span></span></span>       
         <!--
         <span class="font-italic">Li Xu, Bo Liu, Ameer Hamza Khan, Lu Fan, <span class="font-weight-bold">Xiao-Ming Wu</span></span>: <a href="proceeding_P13.html">Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark</a><br>
@@ -80,11 +85,11 @@
         </td>
     </tr>
     <tr>
-      <td>3:15m - 3:25pm</td>
+      <td>3:25pm - 3:35pm</td>
       <td>Closing Remarks</td>
     </tr>
     <tr>
-      <td>3:25m - 4:40pm</td>
+      <td>3:35m - 4:50pm</td>
       <td>Doctoral Symposium</td>
     </tr>
   </tbody>
