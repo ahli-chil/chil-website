@@ -4,10 +4,13 @@ Specifically, authors are invited to submit 8-10 page papers (with unlimited pag
 
 ### Important Dates (all times are anywhere on Earth, AoE)
 
-- Submissions due: Feb 16, 2024 at 11:59pm
-- Bidding opens for reviewers: Feb 17, 2024 at 11:59pm
-- Bidding closes for reviewers: Feb 19, 2024 at 11:59pm
-- Other dates TBD - check back soon!
+- Submissions due: Feb 16, 2024
+- Bidding opens for reviewers: Feb 17, 2024
+- Bidding closes for reviewers: Tue Feb 20, 2024
+- Reviews due: Wed Mar 6, 2024
+- Author response period: Mar 12-19, 2024
+- Author / reviewer discussion period: Mar 19-26, 2024
+- Decision notification: Apr 3, 2024
 - CHIL conference: June 27-28, 2024
 
 <!-- **NOTE**: The submission portal will remain open until **January 18, 2022 (11:59 pm AoE)** for those who would like to make revisions to their submitted work. -->
