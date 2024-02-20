@@ -7,6 +7,7 @@ Specifically, authors are invited to submit 8-10 page papers (with unlimited pag
 - Submissions due: Feb 16, 2024
 - Bidding opens for reviewers: Feb 17, 2024
 - Bidding closes for reviewers: Tue Feb 20, 2024
+- Papers assigned to reviewers: Wed 21 Feb
 - Reviews due: Wed Mar 6, 2024
 - Author response period: Mar 12-19, 2024
 - Author / reviewer discussion period: Mar 19-26, 2024
