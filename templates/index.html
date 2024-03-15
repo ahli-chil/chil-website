@@ -45,6 +45,16 @@
 {% endblock %}
 
 {% block content %}
+
+    <script>
+    function scrollToSpeaker(speakerId) {
+      var speakerElement = document.getElementById(speakerId);
+      if (speakerElement) {
+        speakerElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+  </script>
+
   <div class="page-content">
     {{ index | markdown }}
   </div>

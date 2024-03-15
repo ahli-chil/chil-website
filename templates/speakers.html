@@ -27,6 +27,15 @@
 -->
 
 {% block content %}
+  <script>
+    function scrollToSpeaker(speakerId) {
+      var speakerElement = document.getElementById(speakerId);
+      if (speakerElement) {
+        speakerElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+  </script>
+
   <div class="page-content">
     <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
       <!-- Keynote speakers tab -->
