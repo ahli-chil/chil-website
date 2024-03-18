@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td>10:45am - 11:30am</td>
-      <td><a href="speakers.html#tab-ml_health">State of ML for Health:  Underloved Innovations/Rescue From Obscurity</a><br>
+      <td><a href="speakers.html?S01#tab-ml_health">State of ML for Health:  Underloved Innovations/Rescue From Obscurity</a><br>
         <span class="font-italic"><span class="font-weight-bold">Zak Kohane, MD, PhD,</span> Harvard University</span>
       </td> 
     </tr>
@@ -59,7 +59,7 @@
     <tr>
       <td>1:30pm - 3:00pm</td>
       <td>
-        <a href="speakers.html#tab-tutorials">Tutorial: Clinical LLM "Red Teaming"</a><br>
+        <a href="speakers.html?T01#tab-tutorials">Tutorial: Clinical LLM "Red Teaming"</a><br>
         <span class="font-italic"><span class="font-weight-bold">Katie Link, BS,</span> Hugging Face</span>
       </td> 
      <tr>
@@ -69,7 +69,7 @@
     </tr>
     <tr>
       <td></td>
-      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold"><a href="speakers.html#tab-keynotes">Keynote Session II</a></span></span></td>
+      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold"><a href="speakers.html?S03#tab-keynotes">Keynote Session II</a></span></span></td>
     </tr>
      <tr>
       <td>3:20pm - 3:50pm</td>
