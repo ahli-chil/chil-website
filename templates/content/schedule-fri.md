@@ -16,7 +16,7 @@
     </tr>
     <tr>
       <td>9:05am - 9:50am</td>
-      <td><a href="speakers.html#tab-ml_health">State of ML for Health: LLMs in Health</a><br>
+      <td><a href="speakers.html?M02#tab-ml_health">State of ML for Health: LLMs in Health</a><br>
         <span class="font-italic"><span class="font-weight-bold">Kyunghyun Cho, PhD,</span> NYU</span>
       </td> 
     </tr>    
@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <td></td>
-      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold"><a href="speakers.html#tab-keynotes">Keynote Session III</a></span></span></td>
+      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold"><a href="speakers.html?S05#tab-keynotes">Keynote Session III</a></span></span></td>
     </tr>
      <tr>
       <td>10:20am - 10:50am</td>
@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td>1:30pm - 2:15pm</td>
-      <td><a href="speakers.html#tab-ml_health">State of ML for Health: Deployments & Real-world Impact</a><br>
+      <td><a href="speakers.html?M03#tab-ml_health">State of ML for Health: Deployments & Real-world Impact</a><br>
         <span class="font-italic"><span class="font-weight-bold">Leo Celi, MD,</span> Massachusetts Institute of Technology</span>
       </td> 
     </tr>
@@ -74,8 +74,8 @@
     <tr>
       <td>2:25pm - 3:25pm</td>
       <td>
-        <a href="speakers.html#tab-panels">Panel: Real Deployments, and How to Find Them</a><br>
-        <span class="font-italic"><span class="font-weight-bold">Roy Perlis, MD,</span> Harvard University, <span class="font-italic"><span class="font-weight-bold">Girish Nadkarni, MD, MPH,</span> Mount Sinai, <span class="font-italic"><span class="font-weight-bold">Ashley Beecy, MD,</span> NewYork-Presbyterian </span></span></span>       
+        <a href="speakers.html?P04#tab-panels">Panel: Real Deployments, and How to Find Them</a><br>
+        <span class="font-italic"><span class="font-weight-bold">Girish Nadkarni, MD, MPH,</span> Mount Sinai, <span class="font-italic"><span class="font-weight-bold">Roy Perlis, MD,</span> Harvard University, <span class="font-italic"><span class="font-weight-bold">Ashley Beecy, MD,</span> NewYork-Presbyterian </span></span></span>       
         <!--
         <span class="font-italic">Li Xu, Bo Liu, Ameer Hamza Khan, Lu Fan, <span class="font-weight-bold">Xiao-Ming Wu</span></span>: <a href="proceeding_P13.html">Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark</a><br>
         <span class="font-italic"><span class="font-weight-bold">Vincent Jeanselme</span>, Chang Ho Yoon, Brian Tom, Jessica Barrett</span>: <a href="proceeding_P12.html">Neural Fine-Gray: Monotonic neural networks for competing risks</a><br>

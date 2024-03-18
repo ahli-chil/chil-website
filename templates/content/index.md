@@ -13,35 +13,37 @@ CHIL 2024 features an incredible lineup of speakers including:
 <div class="row p-4">
   <div class="col-md-12">
     <div class="card">
-      <div class="card-header main-page-speaker-group">
-        <div class="row main-page-speaker-group-row">
-          <span class="main-page-speaker-block-title">
-            Keynote Session 1: Moving Beyond Prediction
-          </span>
-        </div>
-        <div class="row main-page-speaker-group-row">
-          <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
-            <img
-            src="/static/images/speakers/hamsa-bastani-square.jpeg" width="100%" class="img-thumbnail"
-            alt="Hamsa Bastani"
-            />
-            <br/>
-            <span class="main-page-speaker-name"> Hamsa Bastani </span>
-            <br/>
-            <span class="main-page-speaker-affiliation"> University of Pennsylvania </span>
+      <a href="speakers.html?S01#tab-keynotes">
+        <div class="card-header main-page-speaker-group">
+          <div class="row main-page-speaker-group-row">
+            <span class="main-page-speaker-block-title">
+              Keynote Session 1: Moving Beyond Prediction
+            </span>
           </div>
-          <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
-            <img
-            src="/static/images/speakers/samantha_kleinberg-square.jpg" width="100%" class="img-thumbnail"
-            alt="Samantha Kleinberg"
-            />
-            <br/>
-            <span class="main-page-speaker-name"> Samantha Kleinberg </span>
-            <br/>
-            <span class="main-page-speaker-affiliation"> Stevens Institute of Technology </span>
+          <div class="row main-page-speaker-group-row">
+            <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
+              <img
+              src="/static/images/speakers/hamsa-bastani-square.jpeg" width="100%" class="img-thumbnail"
+              alt="Hamsa Bastani"
+              />
+              <br/>
+              <span class="main-page-speaker-name"> Hamsa Bastani </span>
+              <br/>
+              <span class="main-page-speaker-affiliation"> University of Pennsylvania </span>
+            </div>
+            <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
+              <img
+              src="/static/images/speakers/samantha_kleinberg-square.jpg" width="100%" class="img-thumbnail"
+              alt="Samantha Kleinberg"
+              />
+              <br/>
+              <span class="main-page-speaker-name"> Samantha Kleinberg </span>
+              <br/>
+              <span class="main-page-speaker-affiliation"> Stevens Institute of Technology </span>
+            </div>
           </div>
         </div>
-      </div>
+      </a>
     </div>
   </div>
 </div>
@@ -50,35 +52,37 @@ CHIL 2024 features an incredible lineup of speakers including:
 <div class="row p-4">
   <div class="col-md-12">
     <div class="card">
-      <div class="card-header main-page-speaker-group">
-        <div class="row main-page-speaker-group-row">
-          <span class="main-page-speaker-block-title">
-            Keynote Session 2: Trustworthy AI & the Politics of Evaluation
-          </span>
-        </div>
-        <div class="row main-page-speaker-group-row">
-          <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
-            <img
-            src="/static/images/speakers/deb_raji-square.jpg" width="100%" class="img-thumbnail"
-            alt="Deb Raji"
-            />
-            <br/>
-            <span class="main-page-speaker-name"> Deb Raji </span>
-            <br/>
-            <span class="main-page-speaker-affiliation"> UC Berkeley </span>
+      <a href="speakers.html?S03#tab-keynotes">
+        <div class="card-header main-page-speaker-group">
+          <div class="row main-page-speaker-group-row">
+            <span class="main-page-speaker-block-title">
+              Keynote Session 2: Trustworthy AI & the Politics of Evaluation
+            </span>
           </div>
-          <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
-            <img
-            src="/static/images/speakers/sanmi_koyejo-square.jpg" width="100%" class="img-thumbnail"
-            alt="Sanmi Koyejo"
-            />
-            <br/>
-            <span class="main-page-speaker-name"> Sanmi Koyejo </span>
-            <br/>
-            <span class="main-page-speaker-affiliation"> Stanford University </span>
+          <div class="row main-page-speaker-group-row">
+            <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
+              <img
+              src="/static/images/speakers/deb_raji-square.jpg" width="100%" class="img-thumbnail"
+              alt="Deb Raji"
+              />
+              <br/>
+              <span class="main-page-speaker-name"> Deb Raji </span>
+              <br/>
+              <span class="main-page-speaker-affiliation"> UC Berkeley </span>
+            </div>
+            <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
+              <img
+              src="/static/images/speakers/sanmi_koyejo-square.jpg" width="100%" class="img-thumbnail"
+              alt="Sanmi Koyejo"
+              />
+              <br/>
+              <span class="main-page-speaker-name"> Sanmi Koyejo </span>
+              <br/>
+              <span class="main-page-speaker-affiliation"> Stanford University </span>
+            </div>
           </div>
         </div>
-      </div>
+      </a>
     </div>
   </div>
 </div>
@@ -87,35 +91,37 @@ CHIL 2024 features an incredible lineup of speakers including:
 <div class="row p-4">
   <div class="col-md-12">
     <div class="card">
-      <div class="card-header main-page-speaker-group">
-        <div class="row main-page-speaker-group-row">
-          <span class="main-page-speaker-block-title">
-            Keynote Session 3: Human Centered AI for Health
-          </span>
-        </div>
-        <div class="row main-page-speaker-group-row">
-          <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
-            <img
-            src="/static/images/speakers/nils_gehlenborg-square.jpeg" width="100%" class="img-thumbnail"
-            alt="Nils Ghelenborg"
-            />
-            <br/>
-            <span class="main-page-speaker-name"> Nils Ghelenborg </span>
-            <br/>
-            <span class="main-page-speaker-affiliation"> Harvard University </span>
+      <a href="speakers.html?S05#tab-keynotes">
+        <div class="card-header main-page-speaker-group">
+          <div class="row main-page-speaker-group-row">
+            <span class="main-page-speaker-block-title">
+              Keynote Session 3: Human Centered AI for Health
+            </span>
           </div>
-          <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
-            <img
-            src="/static/images/speakers/noemie_elhadad-square.jpeg" width="100%" class="img-thumbnail"
-            alt="Noemie Elhadad"
-            />
-            <br/>
-            <span class="main-page-speaker-name"> Noemie Elhadad </span>
-            <br/>
-            <span class="main-page-speaker-affiliation"> Columbia University </span>
+          <div class="row main-page-speaker-group-row">
+            <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
+              <img
+              src="/static/images/speakers/nils_gehlenborg-square.jpeg" width="100%" class="img-thumbnail"
+              alt="Nils Ghelenborg"
+              />
+              <br/>
+              <span class="main-page-speaker-name"> Nils Ghelenborg </span>
+              <br/>
+              <span class="main-page-speaker-affiliation"> Harvard University </span>
+            </div>
+            <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
+              <img
+              src="/static/images/speakers/noemie_elhadad-square.jpeg" width="100%" class="img-thumbnail"
+              alt="Noemie Elhadad"
+              />
+              <br/>
+              <span class="main-page-speaker-name"> Noemie Elhadad </span>
+              <br/>
+              <span class="main-page-speaker-affiliation"> Columbia University </span>
+            </div>
           </div>
         </div>
-      </div>
+      </a>
     </div>
   </div>
 </div>
@@ -124,48 +130,50 @@ CHIL 2024 features an incredible lineup of speakers including:
 <div class="row p-4">
   <div class="col-md-12">
     <div class="card">
-      <div class="card-header main-page-speaker-group">
-        <div class="row main-page-speaker-group-row">
-          <span class="main-page-speaker-block-title">
-            State of ML for Health
-          </span>
+      <a href="speakers.html?M01#tab-ml_health">
+        <div class="card-header main-page-speaker-group">
+          <div class="row main-page-speaker-group-row">
+            <span class="main-page-speaker-block-title">
+              State of ML for Health
+            </span>
+          </div>
+          <div class="row main-page-speaker-group-row">
+            <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
+              <span class="main-page-state-of-ml-talk-title"> Underloved Innovations </span>
+              <img
+              src="/static/images/speakers/zak_kohane-square.png" width="100%" class="img-thumbnail"
+              alt="Isaac Kohane"
+              />
+              <br/>
+              <span class="main-page-speaker-name"> Isaac (Zak) Kohane </span>
+              <br/>
+              <span class="main-page-speaker-affiliation"> Harvard Medical School </span>
+            </div>
+            <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
+              <span class="main-page-state-of-ml-talk-title"> LLMs in Health </span>
+              <img
+              src="/static/images/speakers/kyunghyun_cho.jpeg" width="100%" class="img-thumbnail"
+              alt="Kyunghyun Cho"
+              />
+              <br/>
+              <span class="main-page-speaker-name"> Kyunghyun Cho </span>
+              <br/>
+              <span class="main-page-speaker-affiliation"> NYU </span>
+            </div>
+            <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
+              <span class="main-page-state-of-ml-talk-title"> Real-world Deployment </span>
+              <img
+              src="/static/images/speakers/leo_celi-square.png" width="100%" class="img-thumbnail"
+              alt="Leo Celi"
+              />
+              <br/>
+              <span class="main-page-speaker-name"> Leo Celi </span>
+              <br/>
+              <span class="main-page-speaker-affiliation"> MIT </span>
+            </div>
+          </div>
         </div>
-        <div class="row main-page-speaker-group-row">
-          <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
-            <span class="main-page-state-of-ml-talk-title"> Underloved Innovations </span>
-            <img
-            src="/static/images/speakers/zak_kohane-square.png" width="100%" class="img-thumbnail"
-            alt="Isaac Kohane"
-            />
-            <br/>
-            <span class="main-page-speaker-name"> Isaac (Zak) Kohane </span>
-            <br/>
-            <span class="main-page-speaker-affiliation"> Harvard Medical School </span>
-          </div>
-          <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
-            <span class="main-page-state-of-ml-talk-title"> LLMs in Health </span>
-            <img
-            src="/static/images/speakers/kyunghyun_cho.jpeg" width="100%" class="img-thumbnail"
-            alt="Kyunghyun Cho"
-            />
-            <br/>
-            <span class="main-page-speaker-name"> Kyunghyun Cho </span>
-            <br/>
-            <span class="main-page-speaker-affiliation"> NYU </span>
-          </div>
-          <div class="col-md-3 col-sm-4 main-page-speaker-highlight">
-            <span class="main-page-state-of-ml-talk-title"> Real-world Deployment </span>
-            <img
-            src="/static/images/speakers/leo_celi-square.png" width="100%" class="img-thumbnail"
-            alt="Leo Celi"
-            />
-            <br/>
-            <span class="main-page-speaker-name"> Leo Celi </span>
-            <br/>
-            <span class="main-page-speaker-affiliation"> MIT </span>
-          </div>
-        </div>
-      </div>
+      </a> 
     </div>
   </div>
 </div>

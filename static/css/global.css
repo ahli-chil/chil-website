@@ -86,6 +86,7 @@ button#btn-login-toggle:focus {
 #main-nav {
   padding-top: 10px;
   padding-bottom: 10px;
+  position: relative
 }
 
 .header {
