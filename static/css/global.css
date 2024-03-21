@@ -57,9 +57,9 @@ button#btn-login-toggle:focus {
 }
 
 .container.content-wrapper {
-  /* 100% minus (header + footer) height to keep footer
+  /* 100% minus height to keep footer
      at bottom, on pages with little content */
-  min-height: calc(100% - 198px);
+  min-height: calc(100% - 298px);
 }
 
 .jumbotron {
