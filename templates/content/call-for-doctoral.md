@@ -5,6 +5,4 @@ The AHLI CHIL 2024 Doctoral Symposium is an opportunity for PhD students to broa
 - Doctoral Symposium: June 28, 2024 (New York City, NY, USA)
 
 ### Application
-Please apply by filling out the application form at [https://forms.gle/w21NGS8X59N2QnMu9](https://forms.gle/w21NGS8X59N2QnMu9) by March 15, 2024.
-
 We welcome applications from Ph.D. students in computer science, data science, medical/health informatics, and other related fields. Successful candidates can be either senior students with concrete dissertations or junior students without full plans who may benefit from feedback from other participants. There will be prizes for the best presentations.
