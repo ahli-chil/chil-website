@@ -1,85 +1,133 @@
-
+## Plan Your Trip
 **Dates:**
 
-Thursday, June 22nd - Saturday, June 24th, 2023
+Thursday, June 27th - Friday, June 28th, 2024
 
-**Location**
+**Location:**
 
-AHLI CHIL 2023 will be held at the Broad Institute of MIT and Harvard (Merkin Building) located at 415 Main Street, Cambridge, MA 02142, and MIT CSAIL (Stata Center) located at 32 Vassar Street, Cambridge MA 02139. 
+CHIL 2024 will be held at **Cornell Tech **located at [2 West Loop Rd, New York, NY 10044](https://test-cornell-tech.pantheonsite.io/wp-content/uploads/2023/06/Campus-Map-2023.pdf). 
 
-<img src="static/images/venue.png" class="img-fluid" alt="Map of venue"/>
+<img src="static/images/attend/travel_2024_image1.png" class="img-fluid" alt="Roosevelt Island Transit Overview"/>
 
-### ACCOMMODATION
+Full Subway Map: [New York City Subway](https://new.mta.info/map/5256)
 
-Our room block at the [Boston Marriott Cambridge hotel](https://www.marriott.com/en-us/hotels/boscb-boston-marriott-cambridge/overview/) is now FULL!
-<s>We negotiated a room block for attendees at the [Boston Marriott Cambridge hotel](https://www.marriott.com/en-us/hotels/boscb-boston-marriott-cambridge/overview/) from Wednesday, June 21 to Saturday, June 24, 2023 at a discounted rate of $259 USD per night plus applicable taxes and fees. The Boston Mariott Cambridge hotel is a 4-6 minute walk from the Broad Institute and CSAIL. 
+<img src="static/images/attend/travel_2024_image2.png" class="img-fluid" alt="Roosevelt Island Shuttle Detail"/>
 
-A limited number of rooms are being offered on a first come first serve basis until Thursday, May 18th, after which room rates are subject to change. Note there is no availability on Wednesday night and limited availability on Saturday night and will default to the market rate.
-Please use one of two methods to book a room: 
-* Contact the Reservations Centre at 1-800-228-9290 with the group name CHIL Conference Room Block
-* Use this [weblink](https://www.marriott.com/event-reservations/reservation-link.mi?id=1669818612384&key=GRP&app=resvlink) to book.
-</s>
+<img src="static/images/attend/travel_2024_image3.png" class="img-fluid" alt="Roosevelt Island Points of Interest"/>
 
+<br />
+## ACCOMMODATION
 
+We have negotiated a room block for attendees at the **Graduate Hotel** for a discounted rate. The hotel is conveniently located at 22 N Loop Rd, New York, NY 10044, a 1-minute walk from the Verizon Center. 
 
-
-
-Other local accommodation options are: 
-
-* [Residence Inn by Boston Marriott Cambridge](https://www.marriott.com/en-us/hotels/boscm-residence-inn-boston-cambridge/overview/)
-* [The Kendall Hotel](https://kendallhotel.com/)
+A number of rooms are being offered at this rate on a first come first serve basis until **Monday, May 20th**, after which room rates are subject to change. Please use one of two methods to book a room: 
 
 
-### GETTING TO THE VENUES
 
-By Massachusetts Bay Transportation Authority (MBTA): 
+1. Use this [weblink](https://www.graduatehotels.com/new-york/#/booking/step-1?group=9165688) to book on the hotel website. 
+2. Call the hotel at (929) 447-4700 to book with the group number 9165688 for the CHIL conference room block. 
 
-**Subway:** 
+Other local accommodation:
 
-The nearest subway station is the Kendall/MIT station on the Red Line (0.1 miles from the Broad Institute and 0.3 miles from MIT CSAIL). Check the [MBTA website](https://www.mbta.com/) for schedules and routes. 
+* Ravel Hotel (Queens) 
+* AKA Sutton Place (Manhattan) 
+* Blue Angel Hotel (Manhattan) 
+* Ameritania Hotel at Times Square (Manhattan) 
 
-**Bus:** 
-
-Potential routes include CT2 and EZRide. Check the [MBTA website](https://www.mbta.com/) and [Charles River TMA website](https://charlesrivertma.org/) for routes and schedules. 
-
-BY RIDESHARE: 
-
-**Uber and Lyft** are both available in Boston and Cambridge.
-
-**From Boston Logan International Airport (BOS):**
+\*\*\*NOTE: Travel time may be more than 20 minutes due to NYC rush hour and subway schedule delays or changes. Please plan accordingly\*\*\*
 
 
-BY CAR: 
+<br />
+## GETTING TO THE VENUE
 
-Take the Sumner Tunnel exit from the airport (not the Ted Williams Tunnel) and follow the signs toward Boston via the Sumner Tunnel. The tunnel toll is $3. As you exit the tunnel, take the ramp onto the expressway (I-93 North). Take the second exit, marked 'Storrow Drive West'. Immediately take the right fork of the road to a stoplight. Turn left, then immediately turn right and drive over the Charles River on the Longfellow Bridge. At the second traffic light after the river, take a left onto Ames Street and then a right onto Main Street. The Broad Institute will be on your right at the corner of Main and Ames Street, and CSAIL will be on your left in the building at the corner of Main and Vassar Street.
+**By Subway**
 
-
-NEARBY PARKING: 
-
-Parking rates vary across lots. Nearby lots include: 
-
-* Kendall Center Green Garage
-* Ford Lot
-* Hayward Annex 
-* Technology Square Garage 
-* Albany Street Parking Garage 
-
-NAVIGATING CSAIL: 
-
-There are two entrances to Stata on Vassar Street, one at the "Gates" end (Main Street side) and one at the "Dreyfoos" end (Massachusetts Avenue side). If you are on the Dreyfoos side of the building, all the rooms will start with D, on the Gates side they start with G.
-Room numbers are formatted as follows: building-tower-floor, and the room number starts with the floor the room is on. For example, 32-G699 would indicate the Stata Center (32), G for Gates, and the sixth floor (6), in room 699.
+Take the F train to the Roosevelt Island stop. Walk south 0.3 miles on W Road.
 
 
-### FOOD
-Coffee will be served during conference days. Additional nearby breakfast and/or lunch spots include: 
+**By Tram **(nice views during sunset!)
 
-* Koch Cafe
-* Clover Food Lab
-* Vester Cambridge
-* Cava
-* Catalyst 
-* Area Four 
-* Al’s Tech Square Cafe
-* Cafe Luna 
+Catch the Tram at 59th street and 2nd Avenue. Campus is just south of the Queensboro bridge station.
 
-... and more
+
+**By Ferry**
+
+The Astoria route of NYC Ferry will connect you to a landing just east of campus. Here’s the latest [route and schedule](https://www.ferry.nyc/routes-and-schedules/route/astoria/).
+
+
+**By Bike**
+
+Access Roosevelt Island by bike via the Roosevelt Island Bridge from 36th Street in Queens, then ride south on Main Street.
+
+
+**By Bus**
+
+The Q102 bus connects Roosevelt Island to Long Island City and Astoria in Queens. Here’s the [latest route Q102 map and schedule.](https://bustime.mta.info/m/?q=Q102)
+
+
+**By Car**
+
+Access Roosevelt Island by car via the Roosevelt Island Bridge from 36th Street in Queens, then drive south down Main Street.
+
+**From New York Airports**
+
+From LGA:
+
+
+
+1. From Laguardia Airport, take the M60-SBS (Bus) in the Broadway-106 St direction to Hoyt Av/31 St. 
+2. Walk to the NW Subway station at Astoria Blvd and take the W (Subway) in the Whitehall St-South Ferry direction to Queensboro Plaza. 
+3. Walk North to 41st Ave and then walk West to the F Subway Station at 21 St-Queensbridge.
+4. Take the F (Subway) in the Lexington Av/63 St direction to Roosevelt Island.
+5. Walk South on Roosevelt Island and arrive at Verizon Executive Education Center.
+
+From JFK:
+
+
+
+1. From JFK Airport, take the AirTrain JFK Red (Train) in the Jamaica Station direction to Jamaica Station. 
+2. Walk to the E Subway station at Sutphin Blvd-Archer Av-JFK Airport and take the E (Subway) in the World Trade Center direction to Court Sq-23 St. 
+3. Walk North to 41st Ave and then walk West to the F Subway Station at 21 St-Queensbridge.
+4. Take the F (Subway) in the Lexington Av/63 St direction to Roosevelt Island.
+5. Walk South on Roosevelt Island and arrive at Verizon Executive Education Center.
+
+From EWR:
+
+
+
+1. From Newark Airport, take the 62 (Bus) in the Newark Penn Station direction to Newark Penn Station. 
+2. At Newark Penn Station, take the 108 (Bus) in the New York Via Union City direction to Port Authority Bus Terminal. 
+3. Walk East to Broadway to the NQRW Subway Station at Times Sq - 42 St.
+4. Take the Q (Subway) in the 96 St direction to Lexington Av/63 St.
+5. Transfer at Lexington Av/63 St to the F (Subway) in the 21 St-Queensbridge direction to Roosevelt Island.
+6. Walk South on Roosevelt Island and arrive at Verizon Executive Education Center.
+
+<br />
+## FOOD 
+
+Coffee and lunch will be provided during conference days. Additional nearby breakfast and/or lunch spots include: 
+
+On Roosevelt Island (By walking):
+
+* Soups, pasta, sandwiches (2 minute walk): [Anything At All](https://maps.app.goo.gl/7q58L1h3W8VMJgHm6)
+* Irish and American (6 minute walk): [Granny Annie's Bar & Kitchen](https://maps.app.goo.gl/uNSm4SmTYsJrKkrR6)
+* Italian pasta and pizza (7 minute walk): [Piccolo Trattoria Ristorante Pizzeria](https://maps.app.goo.gl/bD1VyD8Tg4L6jevx5) 
+* Grocery store for everyday items (11 minute walk): [Wholesome Factory](https://maps.app.goo.gl/ygCzA6zPqF3r3qrY8) 
+
+<br />
+## LOCAL POINTS OF INTEREST
+
+<span style="text-decoration:underline;">On Roosevelt Island:</span>
+
+* Roosevelt Island Tramway, East 59th Street and 2nd Avenue, Manhattan
+* Franklin D. Roosevelt Four Freedoms State Park, Southern tip of Roosevelt Island
+* Smallpox Hospital (“Renwick Ruins”), Southpoint Park
+* The Strecker Laboratory, Southpoint Park
+
+<span style="text-decoration:underline;">In Manhattan:</span>
+
+* One World Trade Center: https://www.oneworldobservatory.com
+* The Edge: https://www.edgenyc.com/en
+* MOMA: [https://www.moma.org](https://www.moma.org)
+* The Met: https://www.metmuseum.org
+* American Museum of Natural History: https://www.amnh.org
