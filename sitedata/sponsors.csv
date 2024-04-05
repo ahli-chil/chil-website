@@ -2,7 +2,7 @@ UID,name,image,level,website
 S01,Gordon and Betty Moore Foundation,static/images/sponsors/moore-logo.jpg,gold,
 S02,UFlorida CTSI Department of Biomedical Informatics,static/images/sponsors/CTSI-logo.png,gold,
 S03,Apple,static/images/sponsors/apple-logo.jpg,silver,
-S04,Google,static/images/sponsors/google-logo.png,silver,https://health.google/health-research/,
+S04,Google,static/images/sponsors/google-logo.png,silver,https://health.google/health-research/
 S05,The Mount Sinai Hospital,static/images/sponsors/mount-sinai.png,silver,
 S06,Computational Precision Health Program at UCSF / UC Berkeley,static/images/sponsors/CPH_UCSF_logo.png,silver,
 S07,University of Florida Health,static/images/sponsors/uflorida-health.gif,silver,
