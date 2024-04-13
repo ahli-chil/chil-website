@@ -340,6 +340,28 @@ body .carousel-control-prev {
   color: #bed972;
 }
 
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image-wrapper {
+    flex: 1 0 70%;
+    max-width: 900px;
+    margin-bottom: 20px;
+}
+
+.wider-image-wrapper {
+    flex: 1 0 85%;
+}
+
+.custom-img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
 /*@supports (-webkit-text-stroke: 1px gray) {*/
 /*  .checkbox-paper {*/
 /*    opacity: 0.2;*/

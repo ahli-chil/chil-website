@@ -7,13 +7,20 @@ Thursday, June 27th - Friday, June 28th, 2024
 
 CHIL 2024 will be held at **Cornell Tech **located at [2 West Loop Rd, New York, NY 10044](https://test-cornell-tech.pantheonsite.io/wp-content/uploads/2023/06/Campus-Map-2023.pdf). 
 
-<img src="static/images/attend/travel_2024_image1.png" class="img-fluid" alt="Roosevelt Island Transit Overview"/>
-
-Full Subway Map: [New York City Subway](https://new.mta.info/map/5256)
-
-<img src="static/images/attend/travel_2024_image2.png" class="img-fluid" alt="Roosevelt Island Shuttle Detail"/>
-
-<img src="static/images/attend/travel_2024_image3.png" class="img-fluid" alt="Roosevelt Island Points of Interest"/>
+<div class="image-container">
+    <div class="image-wrapper first-image-wrapper">
+        <img src="static/images/attend/travel_2024_image1.png" class="custom-img" alt="Roosevelt Island Transit Overview"/>
+        <p>Full Subway Map: <a href="https://new.mta.info/map/5256" target="_blank">New York City Subway</a></p>
+    </div>
+    
+    <div class="image-wrapper">
+        <img src="static/images/attend/travel_2024_image2.png" class="custom-img" alt="Roosevelt Island Shuttle Detail"/>
+    </div>
+    
+    <div class="image-wrapper">
+        <img src="static/images/attend/travel_2024_image3.png" class="custom-img" alt="Roosevelt Island Points of Interest"/>
+    </div>
+</div>
 
 <br />
 ## ACCOMMODATION
