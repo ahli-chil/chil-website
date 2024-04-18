@@ -91,7 +91,7 @@
       <td>4:40PM - 5:40pm</td>
       <td>
         <a href="speakers.html#tab-panels">Panel: Health Economics and Behavior</a><br>
-        <span class="font-italic"><span class="font-weight-bold">Kyra Gan, PhD,</span> Cornell University, <span class="font-italic"><span class="font-weight-bold">David Meltzer, MD, PhD,</span> University of Chicago</span></span>       
+        <span class="font-italic"><span class="font-weight-bold">Kyra Gan, PhD,</span> Cornell University</span>, <span class="font-italic"><span class="font-weight-bold">David Meltzer, MD, PhD,</span> University of Chicago</span>, <span class="font-italic"><span class="font-weight-bold">Walter Dempsey, PhD,</span> University of Michigan</span>, <span class="font-italic"><span class="font-weight-bold">F. Perry Wilson, MD,</span> Yale School of Medicine</span>    
         <!--
         <span class="font-italic">Li Xu, Bo Liu, Ameer Hamza Khan, Lu Fan, <span class="font-weight-bold">Xiao-Ming Wu</span></span>: <a href="proceeding_P13.html">Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark</a><br>
         <span class="font-italic"><span class="font-weight-bold">Vincent Jeanselme</span>, Chang Ho Yoon, Brian Tom, Jessica Barrett</span>: <a href="proceeding_P12.html">Neural Fine-Gray: Monotonic neural networks for competing risks</a><br>
