@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <td></td>
-      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold"><a href="speakers.html?S05#tab-keynotes">Keynote Session III</a></span></span></td>
+      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold"><a href="speakers.html?S05#tab-keynotes">Keynote Session II</a></span></span></td>
     </tr>
      <tr>
       <td>10:20am - 10:50am</td>
@@ -49,7 +49,7 @@
       <td>Opening Keynotes Q&A</td>
     </tr>
      <tr>
-      <td>11:30am - 1:30pm</td>
+      <td>11:30am - 1:00pm</td>
       <td>Lunch / Research Roundtables</td>
         <!--
         <a href="speakers.html#tab-roundtables">Research Roundtables</a>
@@ -62,17 +62,31 @@
         -->
     </tr>
     <tr>
-      <td>1:30pm - 2:15pm</td>
-      <td><a href="speakers.html?M03#tab-ml_health">State of ML for Health: Deployments & Real-world Impact</a><br>
-        <span class="font-italic"><span class="font-weight-bold">Leo Celi, MD,</span> Massachusetts Institute of Technology</span>
+      <td></td>
+      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold"><a href="speakers.html?S03#tab-keynotes">Keynote Session III</a></span></span></td>
+    </tr>
+     <tr>
+      <td>1:00pm - 1:30pm</td>
+      <td><a href="speakers.html#tab-keynotes"></a><!-- <br> -->
+        <span class="font-italic"><span class="font-weight-bold">Deb Raji, BASc,</span> UC Berkeley</span>
+      </td> 
+    </tr>
+     <tr>
+      <td>1:30pm - 2:00pm</td>
+      <td><a href="speakers.html#tab-keynotes"></a><!-- <br> -->
+        <span class="font-italic"><span class="font-weight-bold">Sanmi Koyejo, PhD,</span> Stanford University</span>
       </td> 
     </tr>
     <tr>
-      <td>2:15pm - 2:25pm</td>
-      <td>State of ML Q&A</td>
+      <td>2:00pm - 2:10pm</td>
+      <td>Closing Keynotes Q&A</td>
     </tr>
     <tr>
-      <td>2:25pm - 3:25pm</td>
+      <td>2:10pm - 2:30pm</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr>
+      <td>2:30pm - 3:30pm</td>
       <td>
         <a href="speakers.html?P04#tab-panels">Panel: Real Deployments, and How to Find Them</a><br>
         <span class="font-italic"><span class="font-weight-bold">Girish Nadkarni, MD, MPH,</span> Mount Sinai, <span class="font-italic"><span class="font-weight-bold">Roy Perlis, MD,</span> Harvard University, <span class="font-italic"><span class="font-weight-bold">Ashley Beecy, MD,</span> NewYork-Presbyterian </span></span></span>       
@@ -85,12 +99,16 @@
         </td>
     </tr>
     <tr>
-      <td>3:25pm - 3:35pm</td>
+      <td>3:30pm - 3:55pm</td>
+      <td>Doctoral Symposium Lighting Talks</td>
+    </tr>
+    <tr>
+      <td>3:55pm - 4:05pm</td>
       <td>Closing Remarks</td>
     </tr>
     <tr>
-      <td>3:35m - 4:50pm</td>
-      <td>Doctoral Symposium</td>
+      <td>4:05pm - 5:20pm</td>
+      <td>Doctoral Symposium Poster Session</td>
     </tr>
   </tbody>
 </table>
