@@ -64,31 +64,21 @@
       </td> 
      <tr>
     <tr>
-      <td>3:000pm - 3:20pm</td>
+      <td>3:00pm - 3:20pm</td>
       <td>Coffee Break</td>
     </tr>
     <tr>
-      <td></td>
-      <td class="keynote"><span class="border-left-0"><span class="font-weight-bold"><a href="speakers.html?S03#tab-keynotes">Keynote Session II</a></span></span></td>
-    </tr>
-     <tr>
-      <td>3:20pm - 3:50pm</td>
-      <td><a href="speakers.html#tab-keynotes"></a><!-- <br> -->
-        <span class="font-italic"><span class="font-weight-bold">Deb Raji, BASc,</span> UC Berkeley</span>
-      </td> 
-    </tr>
-     <tr>
-      <td>3:50pm - 4:20pm</td>
-      <td><a href="speakers.html#tab-keynotes"></a><!-- <br> -->
-        <span class="font-italic"><span class="font-weight-bold">Sanmi Koyejo, PhD,</span> Stanford University</span>
+      <td>3:20pm - 4:05pm</td>
+      <td><a href="speakers.html?M03#tab-ml_health">State of ML for Health: Deployments & Real-world Impact</a><br>
+        <span class="font-italic"><span class="font-weight-bold">Leo Celi, MD,</span> Massachusetts Institute of Technology</span>
       </td> 
     </tr>
     <tr>
-      <td>4:20pm - 4:40pm</td>
-      <td>Closing Keynotes Q&A</td>
+      <td>4:05pm - 4:15pm</td>
+      <td>State of ML Q&A</td>
     </tr>
     <tr>
-      <td>4:40PM - 5:40pm</td>
+      <td>4:15pm - 5:15pm</td>
       <td>
         <a href="speakers.html#tab-panels">Panel: Health Economics and Behavior</a><br>
         <span class="font-italic"><span class="font-weight-bold">Kyra Gan, PhD,</span> Cornell University</span>, <span class="font-italic"><span class="font-weight-bold">David Meltzer, MD, PhD,</span> University of Chicago</span>, <span class="font-italic"><span class="font-weight-bold">Walter Dempsey, PhD,</span> University of Michigan</span>, <span class="font-italic"><span class="font-weight-bold">F. Perry Wilson, MD,</span> Yale School of Medicine</span>    
@@ -99,6 +89,10 @@
         <span class="font-italic"><span class="font-weight-bold">William La Cava</span>, Elle Lett, Guangya Wan</span>: <a href="proceeding_P23.html">Fair Admission Risk Prediction with Proportional Multicalibration</a>
         -->
         </td>
+    </tr>
+    <tr>
+      <td>5:15pm - 5:20pm</td>
+      <td>Closing Remarks</td>
     </tr>
   </tbody>
 </table>
