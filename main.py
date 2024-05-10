@@ -394,6 +394,11 @@ def communityguidelines():
     data["communityguidelines"] = open("./templates/content/communityguidelines.md").read()
     return render_template("communityguidelines.html", **data)
 
+@app.route("/acknowledgements.html")
+def acknowledgements():
+    data = _data()
+    data["acknowledgements"] = open("./templates/content/acknowledgements.md").read()
+    return render_template("acknowledgements.html", **data)
 
 @app.route("/call-for-doctoral.html")
 def call_for_doctoral():
