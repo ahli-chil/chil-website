@@ -339,6 +339,7 @@ def proceedings():
     # convert to a and b
     data["sessiona"] = [x for x in data["proceedings"] if x["session"] == "A"]
     data["sessionb"] = [x for x in data["proceedings"] if x["session"] == "B"]
+    data["sessionc"] = [x for x in data["proceedings"] if x["session"] == "C"]
     return render_template("proceedings.html", **data)
 
 
