@@ -59,7 +59,7 @@
     <tr>
       <td>1:30pm - 3:00pm</td>
       <td>
-        <a href="speakers.html?T01#tab-tutorials">Tutorial: Clinical LLM "Red Teaming"</a><br>
+        <a href="speakers.html?T01#tab-tutorials">Tutorial: Specializing LLMs for Healthcare</a><br>
         <span class="font-italic"><span class="font-weight-bold">Katie Link, BS,</span> Hugging Face</span>
       </td> 
      <tr>
