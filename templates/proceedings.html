@@ -8,13 +8,15 @@
 {% block tabs %}
   <div class="page-header text-center">
     <h1>Accepted Papers</h1>
-    <p>* denotes the presenting authors</p> 
-    <p>Proceedings from the 2023 CHIL Conference are available at PMLR: <a href="https://proceedings.mlr.press/v209/">https://proceedings.mlr.press/v209/</a></p>
+    <!-- <p>* denotes the presenting authors</p> 
+    <p>Proceedings from the 2023 CHIL Conference are available at PMLR: <a href="https://proceedings.mlr.press/v209/">https://proceedings.mlr.press/v209/</a></p> -->
 
 
   </div>
   {{ components.tabs([
-        ("postera", "Poster Session A (Thursday 3:10 PM - 4:10 PM)", "active"),
+        ("postera", "Track 1 - Models and Methods", "active"),
+        ("posterb", "Track 2 - Applications and Practice"),
+        ("posterc", "Track 3 - Impact and Society"),
     ])}}
 {% endblock %}
 
@@ -41,6 +43,17 @@
       >
       {% if sessionb %}
         {{ components.proceedingpgroup(sessionb) }}
+      {% endif %}
+    </div>
+    <!-- Fri -->
+    <div
+        class="tab-pane"
+        id="tab-posterc"
+        role="tabpanel"
+        aria-labelledby="nav-profile-tab"
+      >
+      {% if sessionc %}
+        {{ components.proceedingpgroup(sessionc) }}
       {% endif %}
     </div>
   </div>
