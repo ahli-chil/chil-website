@@ -1,0 +1,15 @@
+{% set active_page = "Organization" %}
+{% set page_title = "Reviewer Acknowledgements" %}
+{% extends "base.html" %}
+
+{% block top %}
+{% endblock %}
+
+{% block tabs %}
+{% endblock %}
+
+{% block content %}
+  <div class="page-content">
+    {{ acknowledgements | markdown }}
+  </div>
+{% endblock %}
