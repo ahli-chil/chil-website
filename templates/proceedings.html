@@ -8,10 +8,6 @@
 {% block tabs %}
   <div class="page-header text-center">
     <h1>Accepted Papers</h1>
-    <!-- <p>* denotes the presenting authors</p> 
-    <p>Proceedings from the 2023 CHIL Conference are available at PMLR: <a href="https://proceedings.mlr.press/v209/">https://proceedings.mlr.press/v209/</a></p> -->
-
-
   </div>
   {{ components.tabs([
         ("postera", "Track 1 - Models and Methods", "active"),
@@ -23,7 +19,6 @@
 {% block content %}
   <div class="page-content">
     <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
-      <!-- Thurs -->
       <div
         class="tab-pane active"
         id="tab-postera"
@@ -34,28 +29,26 @@
         {{ components.proceedingpgroup(sessiona) }}
       {% endif %}
       </div>
-    <!-- Fri -->
-    <div
-        class="tab-pane"
-        id="tab-posterb"
-        role="tabpanel"
-        aria-labelledby="nav-profile-tab"
-      >
-      {% if sessionb %}
-        {{ components.proceedingpgroup(sessionb) }}
-      {% endif %}
-    </div>
-    <!-- Fri -->
-    <div
-        class="tab-pane"
-        id="tab-posterc"
-        role="tabpanel"
-        aria-labelledby="nav-profile-tab"
-      >
-      {% if sessionc %}
-        {{ components.proceedingpgroup(sessionc) }}
-      {% endif %}
+      <div
+          class="tab-pane"
+          id="tab-posterb"
+          role="tabpanel"
+          aria-labelledby="nav-profile-tab"
+        >
+        {% if sessionb %}
+          {{ components.proceedingpgroup(sessionb) }}
+        {% endif %}
+      </div>
+      <div
+          class="tab-pane"
+          id="tab-posterc"
+          role="tabpanel"
+          aria-labelledby="nav-profile-tab"
+        >
+        {% if sessionc %}
+          {{ components.proceedingpgroup(sessionc) }}
+        {% endif %}
+      </div>
     </div>
   </div>
-</div>
 {% endblock %}
