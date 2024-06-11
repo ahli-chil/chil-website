@@ -89,7 +89,7 @@
       <td>2:30pm - 3:30pm</td>
       <td>
         <a href="speakers.html?P04#tab-panels">Panel: Real Deployments, and How to Find Them</a><br>
-        <span class="font-italic"><span class="font-weight-bold">Girish Nadkarni, MD, MPH,</span> Mount Sinai, <span class="font-italic"><span class="font-weight-bold">Roy Perlis, MD,</span> Harvard University, <span class="font-italic"><span class="font-weight-bold">Ashley Beecy, MD,</span> NewYork-Presbyterian </span></span></span>       
+        <span class="font-italic"><span class="font-weight-bold">Girish Nadkarni, MD, MPH,</span> Mount Sinai, <span class="font-italic"><span class="font-weight-bold">Roy Perlis, MD,</span> Harvard University, <span class="font-italic"><span class="font-weight-bold">Ashley Beecy, MD,</span> NewYork-Presbyterian. </span></span></span><span class="font-italic">Moderated by <span class="font-weight-bold">Leo Celi, PhD,</span> Massachusetts Institute of Technology</span>      
         <!--
         <span class="font-italic">Li Xu, Bo Liu, Ameer Hamza Khan, Lu Fan, <span class="font-weight-bold">Xiao-Ming Wu</span></span>: <a href="proceeding_P13.html">Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark</a><br>
         <span class="font-italic"><span class="font-weight-bold">Vincent Jeanselme</span>, Chang Ho Yoon, Brian Tom, Jessica Barrett</span>: <a href="proceeding_P12.html">Neural Fine-Gray: Monotonic neural networks for competing risks</a><br>
