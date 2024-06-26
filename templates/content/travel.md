@@ -14,10 +14,6 @@ CHIL 2024 will be held at **Cornell Tech **located at [2 West Loop Rd, New York,
     </div>
     
     <div class="image-wrapper">
-        <img src="static/images/attend/travel_2024_image2.png" class="custom-img" alt="Roosevelt Island Shuttle Detail"/>
-    </div>
-    
-    <div class="image-wrapper">
         <img src="static/images/attend/travel_2024_image3.png" class="custom-img" alt="Roosevelt Island Points of Interest"/>
     </div>
 </div>
@@ -116,10 +112,15 @@ Coffee and lunch will be provided during conference days. Additional nearby brea
 
 On Roosevelt Island (By walking):
 
-* Soups, pasta, sandwiches (2 minute walk): [Anything At All](https://maps.app.goo.gl/7q58L1h3W8VMJgHm6)
-* Irish and American (6 minute walk): [Granny Annie's Bar & Kitchen](https://maps.app.goo.gl/uNSm4SmTYsJrKkrR6)
+* Soups, pasta, sandwiches, breakfast with vegan/vegetarian options (2 minute walk): [Anything At All](https://maps.app.goo.gl/7q58L1h3W8VMJgHm6)
+* Irish and American with vegetarian options (6 minute walk): [Granny Annie's Bar & Kitchen](https://maps.app.goo.gl/uNSm4SmTYsJrKkrR6)
 * Italian pasta and pizza (7 minute walk): [Piccolo Trattoria Ristorante Pizzeria](https://maps.app.goo.gl/bD1VyD8Tg4L6jevx5) 
 * Grocery store for everyday items (11 minute walk): [Wholesome Factory](https://maps.app.goo.gl/ygCzA6zPqF3r3qrY8) 
+
+In Manhattan (using Subway):
+
+* Kosher + Vegetarian options: [Abaita - Kosher Dairy](https://www.google.com/maps/place/Abaita+-+Kosher+Dairy/@40.7557,-73.9720694,16z/data=!3m1!4b1!4m6!3m5!1s0x89c258fd278f6211:0x847b53f5c50e87a0!8m2!3d40.7557!4d-73.9720694!16s%2Fg%2F11hbqlx36l?entry=ttu)
+* Halal food cart locations: [4 Guys Halal Food](https://www.google.com/maps/place/4+Guys+Halal+Food/@40.757962,-73.9708356,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2591b84c016c9:0x1238ce1ecb1db7f!8m2!3d40.757962!4d-73.9708356!16s%2Fg%2F11fhl4hzr_?entry=ttu) , [Empire Halal](https://www.google.com/maps?q=Empire+Halal,+1107+3rd+Ave,+New+York,+NY+10065&ftid=0x89c258e91926aaab:0x975f307ea5093946&entry=gps&lucs=,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_ep=CAISDTYuMTIxLjEuNjg0ODAYACCs3wEqWiw5NDIyNDgyNSw5NDIyNzI0Nyw5NDIyNzI0OCw0NzA3MTcwNCw0NzA2OTUwOCw5NDIxODY0MSw5NDIwMzAxOSw0NzA4NDMwNCw5NDIwODQ1OCw5NDIwODQ0N0ICVVM%3D) , [The Twins Halal Food](https://www.google.com/maps?q=The+Twins+Halal+Food,+York+Avenue+%26,+E+67th+St,+New+York,+NY+10065&ftid=0x89c2598d9cf1b335:0x52831199fa8d399c&entry=gps&lucs=,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_ep=CAISDTYuMTIxLjEuNjg0ODAYACCenQoqWiw5NDIyNDgyNSw5NDIyNzI0Nyw5NDIyNzI0OCw0NzA3MTcwNCw0NzA2OTUwOCw5NDIxODY0MSw5NDIwMzAxOSw0NzA4NDMwNCw5NDIwODQ1OCw5NDIwODQ0N0ICVVM%3D)
 
 <br />
 ## LOCAL POINTS OF INTEREST
