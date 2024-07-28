@@ -2,6 +2,7 @@
 {% set page_title = "Past Events - Proceedings" %}
 {% set doi_link_id = "3450439" if (archive_year | int) == 2021 else "3368555" %}
 {% set pmlr_link_id = "174" if (archive_year | int) == 2022 else "209" %}
+{% set pmlr_link_id_2024 = "248" %}
 {% extends "base.html" %}
 
 {% block content %}
@@ -9,8 +10,10 @@
     <h1>Proceedings from {% if (archive_year | int) < 2022 %}ACM{% endif %} CHIL {{archive_year}}</h1>
     {% if (archive_year | int) < 2022 %}
       <p>Proceedings from the {{archive_year}} ACM CHIL Conference are available at the ACM Digital Library: <a href="https://dl.acm.org/doi/proceedings/10.1145/{{doi_link_id}}" target="_blank" rel="noopener">https://dl.acm.org/doi/proceedings/10.1145/{{doi_link_id}}</a></p>
-    {% else %}
+    {% elif (archive_year | int) == 2023 %}
       <p>Proceedings from the {{archive_year}} CHIL Conference are available at PMLR: <a href="https://proceedings.mlr.press/v{{pmlr_link_id}}/" target="_blank" rel="noopener">https://proceedings.mlr.press/v{{pmlr_link_id}}/</a></p>
+    {% elif (archive_year | int) == 2024 %}
+      <p>Proceedings from the {{archive_year}} CHIL Conference are available at PMLR: <a href="https://proceedings.mlr.press/v{{pmlr_link_id_2024}}/" target="_blank" rel="noopener">https://proceedings.mlr.press/v{{pmlr_link_id_2024}}/</a></p>
     {% endif %}
   </div>
   <div class="page-content">
